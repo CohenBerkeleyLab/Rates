@@ -2,6 +2,7 @@
 % Updated 7/14/06 AEP
 % Based on JPL Data Evaluation #15
 % rate = kOHNH3(T,M)
+% ammonia
 
 function  k = kOHNH3(T,M)
 

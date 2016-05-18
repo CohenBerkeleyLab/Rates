@@ -2,6 +2,7 @@
 % Updated 7/14/06 AEP
 % Based on JPL Data Evaluation #15
 % Really only valid from 200-300K - see JPL
-% rate = kohh2o2(T,M)
-function j=kohh2o2(T,M)
+% rate = kOHH2O2(T,M)
+% hydrogen peroxide
+function j=kOHH2O2(T,M)
 j=1.8e-12.*exp(0../T);

@@ -2,6 +2,6 @@
 % Updated 7/14/06 AEP
 % Based on JPL Data Evaluation #15
 % upper limit to rate
-%  rate=kno3self(T,M)
+%  rate=kH2ON2O5(T,M)
 function j=kH2ON2O5(T,M)
 j=2.0e-21.*exp(0../T);
