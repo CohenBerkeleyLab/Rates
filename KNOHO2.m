@@ -3,5 +3,5 @@
 % Based on JPL Data Evaluation #15
 % rate=kNOHO2(T,M)
 %   uncertainties   A  1.2  E/R  +-80
-function j=kNOHO2(T,M)
+function j=KNOHO2(T,M)
 j=3.5e-12.*exp(250../T);
